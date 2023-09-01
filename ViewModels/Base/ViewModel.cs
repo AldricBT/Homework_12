@@ -6,7 +6,7 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Homework_12.ViewModel.Base
+namespace Homework_12.ViewModels.Base
 {
     internal abstract class ViewModel : INotifyPropertyChanged
     {
